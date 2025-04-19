@@ -7,7 +7,7 @@ const interns = {
       status: "Completed",
     },
     SMI74619: {
-      name: "Sri Vasthava Naidu",
+      name: "Gangavaram Sri Vathsava Naidu",
       domain: "Full Stack Web Development Internship",
       batch: "December 21, 2023 to January 04, 2024",
       status: "Completed",
@@ -48,7 +48,7 @@ const interns = {
       }
   
       // Show success message
-      alert(`Verification successful for Intern ID: ${internID}`);
+      //alert(`Verification successful for Intern ID: ${internID}`);
     } else {
       // Handle invalid or missing internID
       alert("Invalid or missing Intern ID.");
