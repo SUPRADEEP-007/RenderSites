@@ -46,7 +46,7 @@ const interns = {
       if (internDetailsDiv) {
         internDetailsDiv.innerHTML = internHTML;
       }
-  
+      alert("Verification successful!");
       // Show success message
       //alert(`Verification successful for Intern ID: ${internID}`);
     } else {
