@@ -3,13 +3,13 @@ const interns = {
     SMI74615: {
       name: "Supradeep Tripurari",
       domain: "Full Stack Web Development Internship",
-      batch: "December 21, 2023 to January 04, 2024",
+      batch: "December 21, 2023 to January 09, 2024",
       status: "Completed",
     },
     SMI74619: {
       name: "Gangavaram Sri Vathsava Naidu",
       domain: "Full Stack Web Development Internship",
-      batch: "December 21, 2023 to January 04, 2024",
+      batch: "December 21, 2023 to January 09, 2024",
       status: "Completed",
     },
   };
